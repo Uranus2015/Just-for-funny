@@ -1,0 +1,5 @@
+#include<iostream>
+Public static void main(String args[]){
+    console.log("HelloWorld!");
+    return 0;
+}
